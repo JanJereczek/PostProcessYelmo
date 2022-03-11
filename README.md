@@ -1,3 +1,4 @@
+![](./docs/logo/PostProcessYelmo.png) 
 # PostProcessYelmo
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://JanJereczek.github.io/PostProcessYelmo.jl/stable)
