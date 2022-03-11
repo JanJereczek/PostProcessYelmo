@@ -1,5 +1,4 @@
-![](./docs/logo/PostProcessYelmo.png) 
-# PostProcessYelmo
+![](./docs/logo/PostProcessYelmo.png)
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://JanJereczek.github.io/PostProcessYelmo.jl/stable)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://JanJereczek.github.io/PostProcessYelmo.jl/dev)
