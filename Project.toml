@@ -1,0 +1,13 @@
+name = "PostProcessYelmo"
+uuid = "ff84146e-a300-4a89-81eb-178c17ce4d24"
+authors = ["Jan Swierczek-Jereczek"]
+version = "0.1.0"
+
+[compat]
+julia = "1.7"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
